@@ -24,6 +24,7 @@ Main page
 
 
 user page
+
 ![image](https://github.com/user-attachments/assets/2f9ae5b9-f08e-4946-83d8-44905d102aa4)
 ![image](https://github.com/user-attachments/assets/70785061-17b0-412c-973a-eb5dafe06206)
 ![image](https://github.com/user-attachments/assets/5738df35-d08d-450b-ae87-89e4eca793a2)
@@ -33,11 +34,13 @@ user page
 
 
 hospital page
+
 ![image](https://github.com/user-attachments/assets/dc769f37-0498-41ae-838e-43aa9955adeb)
 ![image](https://github.com/user-attachments/assets/8eb65dda-6d95-4298-bd53-9646358cd27c)
 
 
 super admin page
+
 ![image](https://github.com/user-attachments/assets/d7379c30-bcab-43a6-8032-b3e86636594d)
 ![image](https://github.com/user-attachments/assets/e5ad3493-0b97-4187-92a2-47d32d4cecd4)
 
